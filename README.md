@@ -3,7 +3,7 @@
 ## App Pages
 
 - Homepage; Listing Meal Recipes, Add to cart, View Cart Button
-- View Cart Button (Header Section): list added meals, ability to change quantity, order button; to show user information form to get user details and on "Confirm" button store data in mongo db.
+- View Cart Button (Header Section): list added meals, ability to change quantity, order button; to show user information form to get user details and on "Confirm" button store data in firebase db.
 
 
 ## React Features Used
